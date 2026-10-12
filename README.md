@@ -1,3 +1,5 @@
+> Previous-study audio recordings were removed from the current published site on 2026-10-12. The scoring code and 53-item template are retained.
+
 # Nonword Repetition Scoring
 
 Browser-based scoring tool for Japanese nonword repetition audio.
